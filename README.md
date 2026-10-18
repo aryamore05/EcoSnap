@@ -1,8 +1,34 @@
-# EcoSnap — From Waste to Action
+## 🏆 Hacktoberfest 2026 — Week 1
 
-**Small Actions. A Cleaner Planet.**
+**EcoSnap — From Waste to Action** was built as part of the **Hacktoberfest 2026 DEV Challenge — Week 1: Touch Grass**.
 
-EcoSnap is an AI-powered environmental assistant that helps people identify waste, learn how to dispose of it responsibly, and track their environmental cleanup activities. Built for the **Hacktoberfest 2026 Open-Source AI Challenge — Week 1**, whose theme is **"Touch Grass."**
+The challenge inspired me to explore how open-source AI and computer vision can help address a real-world environmental problem: identifying litter and making responsible waste disposal easier.
+
+### 🌱 About EcoSnap
+
+EcoSnap is an AI-powered waste identification tool that allows users to photograph litter or waste and receive an AI-generated description, a possible waste category, and suggestions for responsible disposal.
+
+The goal is simple: **Snap the waste. Understand it. Take action.**
+
+### 🤖 Open-Source AI
+
+- **Ollama** for running AI models locally.
+- **LLaVA 7B (`llava:7b`)** for vision-based waste image analysis.
+- AI-assisted waste classification and disposal suggestions.
+- A local-inference approach that avoids dependence on paid external AI APIs for image analysis.
+
+AI-generated classifications and disposal suggestions are recommendations, not guaranteed identifications. Users should verify local waste disposal and recycling guidelines.
+
+- **DEV Challenge:** [Hacktoberfest Week 1 — Touch Grass](https://dev.to/challenges)
+
+### 🚀 What's Next?
+
+- Improve waste identification accuracy.
+- Expand waste categories and disposal recommendations.
+- Improve the user experience for outdoor waste reporting.
+- Explore ways to support more responsible waste management.
+
+*Built for Hacktoberfest 2026 with open-source AI and a goal of turning waste identification into environmental action.*
 
 ---
 
