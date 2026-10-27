@@ -1,4 +1,4 @@
-## 🏆 Hacktoberfest 2026 — Week 1
+## 🏆 Hacktoberfest 2026 — Challenge
 
 **EcoSnap — From Waste to Action** was built as part of the **Hacktoberfest 2026 DEV Challenge — Week 1: Touch Grass**.
 
